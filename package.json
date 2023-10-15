@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0"
+  },
+  "name": "web-development-project",
+  "description": "My this repo contains work I did while learning and it contains the projects too. It contains the solution.html too as a reference.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Khyati",
+  "license": "ISC"
+}
